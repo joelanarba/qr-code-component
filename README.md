@@ -22,8 +22,9 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]( https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-mobile-first-design-ymlwPXDT8o
+)
+- Live Site URL: [Add live site URL here](https://joelanarba.github.io/qr-code-component/)
 
 ## My process
 
