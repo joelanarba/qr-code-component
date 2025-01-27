@@ -20,7 +20,7 @@
     align-items: center;
     padding: 2rem; 
     height: 100vh; /* Add this line */
-  margin: 0; /* Ensure no margin on body */
+    margin: 0; /* Ensure no margin on body */
   }
   
   .container {
@@ -29,16 +29,16 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 2rem;
+    padding: 1rem;
     border-radius: 1.5rem;
     max-width: 32rem;
-    margin-top: 2rem;
-    margin-bottom: 2rem; 
+    /* margin-top: 2rem;
+    margin-bottom: 2rem;  */
   }
   
   .qr-code {
     width: 100%;
-    max-width: 20rem; 
+    max-width: 30rem; 
     border-radius: 1.5rem;
   }
   
@@ -62,7 +62,7 @@
   
   @media (min-width: 600px) {
     .qr-code {
-      max-width: 25rem; 
+      max-width: 33rem; 
     }
   
     .container {
@@ -70,9 +70,9 @@
     }
   }
   
-  .attribution {
-    font-size: 1rem;
-    color: hsl(220, 15%, 55%);
-    text-align: center;
-    margin-top: 2rem;
-  }
+.attribution {
+  font-size: 1rem;
+  color: hsl(220, 15%, 55%);
+  text-align: center;
+  margin-top: 2rem;
+}
