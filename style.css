@@ -19,6 +19,8 @@
     justify-content: center;
     align-items: center;
     padding: 2rem; 
+    height: 100vh; /* Add this line */
+  margin: 0; /* Ensure no margin on body */
   }
   
   .container {
